@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I’m Younes Lemrabti </h1>
 <h3 > 👀 I’m interested in Artificial Intelligence and Data Sciences </h1>
 <h3 > 🌱 I’m currently learning different Machine Learning and Deep Learning as well as data analysis algorithms </h1>
-<h3 > 📫 How to reach me, contact me with <a href="younes0lemrabti@gmail.com ">younes0lemrabti@gmail.com </a> </h1>
+<h3 > 📫 How to reach me, contact me via <a href="younes0lemrabti@gmail.com ">younes0lemrabti@gmail.com </a> </h1>
 <br>
 <br>
 Frameworks / Libraries : <br>     
