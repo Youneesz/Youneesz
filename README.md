@@ -15,7 +15,7 @@ Frameworks / Libraries : <br>
           <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="git" width="40" height="40"/>
      </a>
      <a href="https://numpy.org/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="git" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" alt="git" width="40" height="40"/>
      </a>
      <a href="https://matplotlib.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/matplotlib-icon.svg" alt="git" width="40" height="40"/>
