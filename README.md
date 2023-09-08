@@ -1,18 +1,27 @@
 <h1 align="center"> 👋 Hi, I’m Younes Lemrabti </h1>
-<h3 > 👀 I’m interested in Artificial Intelligence and Data Sciences </h1>
-<h3 > 🌱 I’m currently learning different Machine Learning and Deep Learning as well as data analysis algorithms </h1>
-<h3 > 📫 How to reach me, contact me via <a href="younes0lemrabti@gmail.com ">younes0lemrabti@gmail.com </a> </h1>
+<h3 > 👀 I’m interested in Artificial Intelligence and Web Developpement </h1>
+<h3 > 🌱 I have a professional bachelor in Artificial Intelligence and currently studying for a second bachelor for Web Developpement </h1>
+<h3 > 📫 How to reach me, contact me with <a href="younes0lemrabti@gmail.com ">younes0lemrabti@gmail.com </a> </h1>
 <br>
 <br>
-Frameworks / Libraries : <br>     
-    <a href="https://tensorflow.org/" target="_blank">
+Frameworks / Libraries : <br>
+     <a href="https://spring.io/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="css3" width="40" height="40"/>
+     </a>  
+     <a href="https://www.djangoproject.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="css3" width="40" height="40"/>
+     </a>   
+     <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="css3" width="40" height="40"/>
+     </a>     
+     <a href="https://tensorflow.org/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="css3" width="40" height="40"/>
      </a>
      <a href="https://scikit-learn.org/stable/" target="_blank">
           <img src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" alt="git" width="40" height="40"/>
      </a>
      <a href="https://pandas.pydata.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" alt="git" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="git" width="40" height="40"/>
      </a>
      <a href="https://numpy.org/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="git" width="40" height="40"/>
@@ -26,6 +35,15 @@ Frameworks / Libraries : <br>
      <p>Programming languages and tools : </p>
      
 <p align="left">
+     <a href="https://www.php.net/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="css3" width="40" height="40"/>
+     </a>
+     <a href="https://www.javascript.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="css3" width="40" height="40"/>
+     </a>
+     <a href="https://www.java.com/en/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="css3" width="40" height="40"/>
+     </a>
      <a href="https://www.python.org/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css3" width="40" height="40"/>
      </a>
