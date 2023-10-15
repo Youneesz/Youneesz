@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I’m Younes Lemrabti </h1>
-<h3 > 👀 I’m interested in Artificial Intelligence and Web Developpement </h1>
-<h3 > 🌱 I have a professional bachelor in Artificial Intelligence and currently studying for a second bachelor for Web Developpement </h1>
-<h3 > 📫 How to reach me, contact me via email on <a href="younes0lemrabti@gmail.com ">younes0lemrabti@gmail.com </a> </h1>
+<h3 > 👀 I’m interested in Artificial Intelligence and Web Developpement </h3>
+<h3 > 🌱 I have a professional bachelor in Artificial Intelligence and currently studying for a second bachelor for Web Developpement </h3>
+<h3 > 📫 How to reach me, contact me via email : <a href="younes0lemrabti@gmail.com ">younes0lemrabti@gmail.com </a> </h3>
 <br>
 <br>
 Frameworks / Libraries : <br>
